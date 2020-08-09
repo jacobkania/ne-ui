@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ne-ui/static/css/main.eab24d3c.chunk.css",
+    "main.js": "/ne-ui/static/js/main.aaee0f84.chunk.js",
+    "main.js.map": "/ne-ui/static/js/main.aaee0f84.chunk.js.map",
+    "runtime-main.js": "/ne-ui/static/js/runtime-main.5751b22a.js",
+    "runtime-main.js.map": "/ne-ui/static/js/runtime-main.5751b22a.js.map",
+    "static/js/2.dbfe50f1.chunk.js": "/ne-ui/static/js/2.dbfe50f1.chunk.js",
+    "static/js/2.dbfe50f1.chunk.js.map": "/ne-ui/static/js/2.dbfe50f1.chunk.js.map",
+    "index.html": "/ne-ui/index.html",
+    "precache-manifest.2211c6af00a86dd1008486b4aa023162.js": "/ne-ui/precache-manifest.2211c6af00a86dd1008486b4aa023162.js",
+    "service-worker.js": "/ne-ui/service-worker.js",
+    "static/css/main.eab24d3c.chunk.css.map": "/ne-ui/static/css/main.eab24d3c.chunk.css.map",
+    "static/js/2.dbfe50f1.chunk.js.LICENSE.txt": "/ne-ui/static/js/2.dbfe50f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5751b22a.js",
+    "static/js/2.dbfe50f1.chunk.js",
+    "static/css/main.eab24d3c.chunk.css",
+    "static/js/main.aaee0f84.chunk.js"
+  ]
+}
