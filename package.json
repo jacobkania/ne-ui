@@ -1,6 +1,6 @@
 {
   "name": "@ne-ui/core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://jacobkania.github.io/ne-ui",
   "description": "Neumorphism UI Components for React",
   "author": "Jacob Riley Kania (https://jacobkania.com)",
@@ -32,7 +32,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "publish": "rm -rf dist && mkdir dist && cp -r src/ne-ui/* dist/",
+    "prepublishOnly": "rm -rf dist && mkdir dist && cp -r src/ne-ui/ dist/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
